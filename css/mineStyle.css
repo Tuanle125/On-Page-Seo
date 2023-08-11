@@ -2,3 +2,18 @@
     background-color: white;
 }
 
+.text-title {
+    font-size: 30px !important;
+}
+
+.text-title-sm {
+    font-size: 25px;
+}
+
+.text-middle {
+    font-size: 20px;
+}
+
+.text-bold {
+    font-weight: bold;
+}
