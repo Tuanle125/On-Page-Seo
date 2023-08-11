@@ -753,8 +753,7 @@ textarea#comment.massage-bt::placeholder {
     width: 100%;
     float: left;
     background-color: #1c1d1d;
-    height: auto;
-    margin-top: 80px;
+    height: auto; 
     padding-bottom: 80px;
 }
 
